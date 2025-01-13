@@ -1,4 +1,4 @@
-Contributing to Aqua
+Contributing to Aqua <br>
 First off, thank you for considering contributing to Aqua! We appreciate all kinds of contributions, whether it’s reporting bugs, writing documentation, or submitting pull requests to improve Aqua. This document will guide you through the process of contributing to our project.
 
 1. Code of Conduct
@@ -48,11 +48,11 @@ Modular Structure: Try to keep your code changes modular and localized. Avoid in
 5. Project Structure
 A brief overview of the key directories (subject to change based on how Aqua is structured):
 
-aqua-platform/
-├─ aqua-platform.zip # Code files (HTML, js, images, etc.)
-├─ README.md
-├─ CONTRIBUTING.md   # (This file)
-└─ LICENSE           # License information
+aqua-platform/ <br>
+├─ aqua-platform.zip # Code files (HTML, js, images, etc.) <br>
+├─ README.md <br>
+├─ CONTRIBUTING.md   # (This file) <br>
+└─ LICENSE           # License information <br>
 
 If your contribution affects multiple areas, please update this structure accordingly.
 
