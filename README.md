@@ -23,7 +23,7 @@ Contribution
 We welcome contributions from the community! Whether you want to report a bug, request a feature, or submit a pull request, we’re excited to collaborate.
 How to Contribute 1. Fork the repository. 2. Create a feature branch. 3. Commit your changes and submit a pull request.
 
-Please refer to our CONTRIBUTING.md for more details.
+Please refer to our <a href="https://github.com/Cityray87/aqua-platform/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> for more details.
 
 Acknowledgements
 Aqua is built on top of ExtJS 3.4, a robust JavaScript framework for building data-rich web applications. We thank the ExtJS team for their foundational work and contribution to the developer community.
