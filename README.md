@@ -17,7 +17,7 @@ Licensing
 Aqua is licensed under GPLv3, as it is built upon ExtJS 3.4, which is also licensed under GPLv3. By using this platform, you agree to comply with the terms of the GPLv3 license.
 Key Licensing Terms: • The source code for the entire application built with Aqua must also be made available under GPLv3. • You can distribute, modify, and share applications created with Aqua, but they must remain open-source under GPLv3.
 
-For more details, see the LICENSE file.
+For more details, see the <a href="https://github.com/Cityray87/aqua-platform/blob/main/LICENSE">LICENSE</a> file.
 
 Contribution
 We welcome contributions from the community! Whether you want to report a bug, request a feature, or submit a pull request, we’re excited to collaborate.
