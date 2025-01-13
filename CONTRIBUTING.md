@@ -48,8 +48,6 @@ Modular Structure: Try to keep your code changes modular and localized. Avoid in
 5. Project Structure
 A brief overview of the key directories (subject to change based on how Aqua is structured):
 
-php
-Copy code
 aqua-platform/
 ├─ src/
 ├─ aqua-platform.zip # Code files (HTML, js, images, etc.)
