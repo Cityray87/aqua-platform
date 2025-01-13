@@ -1,4 +1,5 @@
 Aqua: A Low-Code Development Platform
+
 Aqua is a powerful and flexible low-code development platform designed to accelerate the creation of rich, interactive web applications. Built on top of ExtJS 3.4, Aqua provides a robust foundation for developers and organizations to design, develop, and deploy applications with minimal coding effort.
 
 Key Features
