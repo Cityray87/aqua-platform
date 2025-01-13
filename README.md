@@ -11,7 +11,6 @@ Getting Started
 Follow these steps to start using Aqua:
 Prerequisites 
 • A modern web browser (Chrome, Firefox, or Edge recommended) 
-• Node.js and npm installed for local development (optional for advanced users)
 
 Licensing
 
