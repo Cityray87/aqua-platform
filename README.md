@@ -26,6 +26,8 @@ How to Contribute 1. Fork the repository. 2. Create a feature branch. 3. Commit 
 
 Please refer to our <a href="https://github.com/Cityray87/aqua-platform/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> for more details.
 
+For wiki <a href="https://github.com/Cityray87/aqua-platform/wiki">Check out here</a>
+
 Acknowledgements
 Aqua is built on top of ExtJS 3.4, a robust JavaScript framework for building data-rich web applications. We thank the ExtJS team for their foundational work and contribution to the developer community.
 
